@@ -12,7 +12,7 @@ Hello! My name is Delio Rodríguez. I am currently a student pursuing a degree i
 - **Technologies**: React, .NET, Spring Boot
 
 ## Projects
-_(Include details about your projects here)_
+_This project will be based on the development of an architecture using microservices._
 
 ## Goals
 My goal is to become a proficient software developer, capable of creating impactful and innovative solutions. I am eager to apply my skills in real-world projects and collaborate with others in the tech community.
