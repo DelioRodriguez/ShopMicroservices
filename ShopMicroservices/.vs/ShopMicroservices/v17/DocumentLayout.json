@@ -1,56 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ShopMicroservices\\ShopMicroservices\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\logger\\services\\loggerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\logger\\services\\loggerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|c:\\shopmicroservices\\shopmicroservices\\shopprosa.common.data\\repository\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|solutionrelative:shopprosa.common.data\\repository\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\notification\\interfaces\\inotificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\notification\\interfaces\\inotificationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\logger\\interfaces\\iloggerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\logger\\interfaces\\iloggerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\notification\\sms\\smsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\notification\\sms\\smsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\notification\\email\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\notification\\email\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\notification\\models\\smsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\notification\\models\\smsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\shopmicroservices.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\shopmicroservices.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\notification\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\notification\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\base\\notificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\base\\notificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|c:\\shopmicroservices\\shopmicroservices\\shopprosa.common.data\\base\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|solutionrelative:shopprosa.common.data\\base\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|c:\\shopmicroservices\\shopmicroservices\\shopprosa.common.data\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|solutionrelative:shopprosa.common.data\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -58,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 714,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,156 +49,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoggerServices.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Logger\\Services\\LoggerServices.cs",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Logger\\Services\\LoggerServices.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Logger\\Services\\LoggerServices.cs",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Logger\\Services\\LoggerServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T13:57:54.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "INotificationServices.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Interfaces\\INotificationServices.cs",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Notification\\Interfaces\\INotificationServices.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Interfaces\\INotificationServices.cs",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Notification\\Interfaces\\INotificationServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T14:03:41.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Repository\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "ShopProSa.Common.Data\\Repository\\IRepositoryBase.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Repository\\IRepositoryBase.cs",
-              "RelativeToolTip": "ShopProSa.Common.Data\\Repository\\IRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T13:31:53.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ILoggerServices.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Logger\\Interfaces\\ILoggerServices.cs",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Logger\\Interfaces\\ILoggerServices.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Logger\\Interfaces\\ILoggerServices.cs",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Logger\\Interfaces\\ILoggerServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T13:57:15.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShopMicroservices.Infraestructure.csproj",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-29T14:14:58.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SmsServices.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Sms\\SmsServices.cs",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Notification\\Sms\\SmsServices.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Sms\\SmsServices.cs",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Notification\\Sms\\SmsServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T14:04:09.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmailServices.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Email\\EmailServices.cs",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Notification\\Email\\EmailServices.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Email\\EmailServices.cs",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Notification\\Email\\EmailServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T14:01:55.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SmsModel.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Models\\SmsModel.cs",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Notification\\Models\\SmsModel.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Models\\SmsModel.cs",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Notification\\Models\\SmsModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T14:15:08.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmailModel.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Models\\EmailModel.cs",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Notification\\Models\\EmailModel.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Notification\\Models\\EmailModel.cs",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Notification\\Models\\EmailModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T14:14:00.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NotificationResult.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Base\\NotificationResult.cs",
-              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Base\\NotificationResult.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Base\\NotificationResult.cs",
-              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Base\\NotificationResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T13:51:08.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuditEntity.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Base\\AuditEntity.cs",
-              "RelativeDocumentMoniker": "ShopProSa.Common.Data\\Base\\AuditEntity.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Base\\AuditEntity.cs",
-              "RelativeToolTip": "ShopProSa.Common.Data\\Base\\AuditEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T13:12:10.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "ShopProSa.Common.Data\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "ShopProSa.Common.Data\\Base\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T13:10:16.162Z"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         },
