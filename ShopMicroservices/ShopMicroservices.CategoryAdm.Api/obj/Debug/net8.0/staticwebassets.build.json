@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5vGdnd8B7VrTv2JpN9SWNxJI7lH0iaXBsSsB4hPNeac=",
+  "Source": "ShopMicroservices.CategoryAdm.Api",
+  "BasePath": "_content/ShopMicroservices.CategoryAdm.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

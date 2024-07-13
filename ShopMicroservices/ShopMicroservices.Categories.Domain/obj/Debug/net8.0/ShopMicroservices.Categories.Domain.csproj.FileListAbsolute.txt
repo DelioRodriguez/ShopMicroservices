@@ -1,0 +1,16 @@
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\bin\Debug\net8.0\ShopMicroservices.Categories.Domain.deps.json
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\bin\Debug\net8.0\ShopMicroservices.Categories.Domain.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\bin\Debug\net8.0\ShopMicroservices.Categories.Domain.pdb
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\bin\Debug\net8.0\ShopMicroservices.Common.Data.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\bin\Debug\net8.0\ShopMicroservices.Common.Data.pdb
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicroservices.Categories.Domain.csproj.AssemblyReference.cache
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicroservices.Categories.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicroservices.Categories.Domain.AssemblyInfoInputs.cache
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicroservices.Categories.Domain.AssemblyInfo.cs
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicroservices.Categories.Domain.csproj.CoreCompileInputs.cache
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicroservices.Categories.Domain.sourcelink.json
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicr.507B7847.Up2Date
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicroservices.Categories.Domain.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\refint\ShopMicroservices.Categories.Domain.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ShopMicroservices.Categories.Domain.pdb
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Categories.Domain\obj\Debug\net8.0\ref\ShopMicroservices.Categories.Domain.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShopMicroservices.Categories.Domain/1.0.0": {
+        "dependencies": {
+          "ShopMicroservices.Common.Data": "1.0.0"
+        },
+        "runtime": {
+          "ShopMicroservices.Categories.Domain.dll": {}
+        }
+      },
+      "ShopMicroservices.Common.Data/1.0.0": {
+        "runtime": {
+          "ShopMicroservices.Common.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopMicroservices.Categories.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopMicroservices.Common.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

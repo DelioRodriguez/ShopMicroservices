@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShopMicroServices.Categories.Api.props" />
+</Project>

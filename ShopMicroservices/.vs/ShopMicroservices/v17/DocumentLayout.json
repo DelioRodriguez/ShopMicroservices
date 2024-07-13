@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ShopMicroservices\\ShopMicroservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE9A90B-E429-461B-A977-ECEA017928D8}|ShopMicroservices.Categories.IOC\\ShopMicroservices.Categories.IOC.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.categories.ioc\\dependencies\\categorydependecy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE9A90B-E429-461B-A977-ECEA017928D8}|ShopMicroservices.Categories.IOC\\ShopMicroservices.Categories.IOC.csproj|solutionrelative:shopmicroservices.categories.ioc\\dependencies\\categorydependecy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE9A90B-E429-461B-A977-ECEA017928D8}|ShopMicroservices.Categories.IOC\\ShopMicroservices.Categories.IOC.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.categories.ioc\\shopmicroservices.categories.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEE9A90B-E429-461B-A977-ECEA017928D8}|ShopMicroservices.Categories.IOC\\ShopMicroservices.Categories.IOC.csproj|solutionrelative:shopmicroservices.categories.ioc\\shopmicroservices.categories.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\logger\\interfaces\\iloggerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\logger\\interfaces\\iloggerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F91AEA0-F95C-4CE1-AF20-C59BE2A05818}|ShopMicroServices.Categories.Api\\ShopMicroServices.Categories.Api.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.categories.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F91AEA0-F95C-4CE1-AF20-C59BE2A05818}|ShopMicroServices.Categories.Api\\ShopMicroServices.Categories.Api.csproj|solutionrelative:shopmicroservices.categories.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F91AEA0-F95C-4CE1-AF20-C59BE2A05818}|ShopMicroServices.Categories.Api\\ShopMicroServices.Categories.Api.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.categories.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F91AEA0-F95C-4CE1-AF20-C59BE2A05818}|ShopMicroServices.Categories.Api\\ShopMicroServices.Categories.Api.csproj|solutionrelative:shopmicroservices.categories.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.infraestructures\\base\\notificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E01C879-39DC-4336-AA1C-65C6AC5339B7}|ShopMicroservices.Infraestructures\\ShopMicroservices.Infraestructure.csproj|solutionrelative:shopmicroservices.infraestructures\\base\\notificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|c:\\shopmicroservices\\shopmicroservices\\shopprosa.common.data\\repository\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|solutionrelative:shopprosa.common.data\\repository\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|c:\\shopmicroservices\\shopmicroservices\\shopprosa.common.data\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|solutionrelative:shopprosa.common.data\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|c:\\shopmicroservices\\shopmicroservices\\shopprosa.common.data\\base\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327C6271-91F0-47B1-9E1B-224C33E75AB1}|ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj|solutionrelative:shopprosa.common.data\\base\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2133E88-3817-4F46-A938-BF4243555458}|ShopMicroservices.Categories.Application\\ShopMicroservices.Categories.Application.csproj|c:\\shopmicroservices\\shopmicroservices\\shopmicroservices.categories.application\\base\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2133E88-3817-4F46-A938-BF4243555458}|ShopMicroservices.Categories.Application\\ShopMicroservices.Categories.Application.csproj|solutionrelative:shopmicroservices.categories.application\\base\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroServices.Categories.Api\\Controllers\\ValuesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopMicroServices.Categories.Api\\Controllers\\ValuesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Application.Domain\\ShopMicroservices.Application.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopMicroservices.Application.Domain\\ShopMicroservices.Application.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 714,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,8 +101,149 @@
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopMicroservices.Categories.IOC.csproj",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Categories.IOC\\ShopMicroservices.Categories.IOC.csproj",
+              "RelativeDocumentMoniker": "ShopMicroservices.Categories.IOC\\ShopMicroservices.Categories.IOC.csproj",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Categories.IOC\\ShopMicroservices.Categories.IOC.csproj",
+              "RelativeToolTip": "ShopMicroservices.Categories.IOC\\ShopMicroservices.Categories.IOC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T20:32:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryDependecy.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Categories.IOC\\Dependencies\\CategoryDependecy.cs",
+              "RelativeDocumentMoniker": "ShopMicroservices.Categories.IOC\\Dependencies\\CategoryDependecy.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Categories.IOC\\Dependencies\\CategoryDependecy.cs",
+              "RelativeToolTip": "ShopMicroservices.Categories.IOC\\Dependencies\\CategoryDependecy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:30:43.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroServices.Categories.Api\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ShopMicroServices.Categories.Api\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroServices.Categories.Api\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ShopMicroServices.Categories.Api\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:22:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoggerServices.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Logger\\Interfaces\\ILoggerServices.cs",
+              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Logger\\Interfaces\\ILoggerServices.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Logger\\Interfaces\\ILoggerServices.cs",
+              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Logger\\Interfaces\\ILoggerServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:15:56.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroServices.Categories.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ShopMicroServices.Categories.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroServices.Categories.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "ShopMicroServices.Categories.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:05:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroServices.Categories.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ShopMicroServices.Categories.Api\\Program.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroServices.Categories.Api\\Program.cs",
+              "RelativeToolTip": "ShopMicroServices.Categories.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:05:19.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationResult.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Base\\NotificationResult.cs",
+              "RelativeDocumentMoniker": "ShopMicroservices.Infraestructures\\Base\\NotificationResult.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Infraestructures\\Base\\NotificationResult.cs",
+              "RelativeToolTip": "ShopMicroservices.Infraestructures\\Base\\NotificationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:03:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Repository\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "ShopProSa.Common.Data\\Repository\\IRepositoryBase.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Repository\\IRepositoryBase.cs",
+              "RelativeToolTip": "ShopProSa.Common.Data\\Repository\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:02:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ShopProSa.Common.Data\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ShopProSa.Common.Data\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:02:38.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditEntity.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Base\\AuditEntity.cs",
+              "RelativeDocumentMoniker": "ShopProSa.Common.Data\\Base\\AuditEntity.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\Base\\AuditEntity.cs",
+              "RelativeToolTip": "ShopProSa.Common.Data\\Base\\AuditEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:02:19.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopMicroservices.Application.Domain.csproj",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Application.Domain\\ShopMicroservices.Application.Domain.csproj",
+              "RelativeDocumentMoniker": "ShopMicroservices.Application.Domain\\ShopMicroservices.Application.Domain.csproj",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Application.Domain\\ShopMicroservices.Application.Domain.csproj",
+              "RelativeToolTip": "ShopMicroservices.Application.Domain\\ShopMicroservices.Application.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T14:45:57.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Categories.Application\\Base\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "ShopMicroservices.Categories.Application\\Base\\ServiceResult.cs",
+              "ToolTip": "C:\\ShopMicroservices\\ShopMicroservices\\ShopMicroservices.Categories.Application\\Base\\ServiceResult.cs",
+              "RelativeToolTip": "ShopMicroservices.Categories.Application\\Base\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:44:21.639Z"
             }
           ]
         },

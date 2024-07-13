@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\ShopMIcroservices.Common.Data.csproj",
-      "projectName": "ShopMIcroservices.Common.Data",
-      "projectPath": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\ShopMIcroservices.Common.Data.csproj",
+      "projectUniqueName": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj",
+      "projectName": "ShopMicroservices.Common.Data",
+      "projectPath": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\ShopMicroservices.Common.Data.csproj",
       "packagesPath": "C:\\Users\\delio\\.nuget\\packages\\",
       "outputPath": "C:\\ShopMicroservices\\ShopMicroservices\\ShopProSa.Common.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -46,11 +46,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

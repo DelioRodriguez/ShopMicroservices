@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShopMicroservices.Common.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a23fa98bb549a9e2544714188d5a18dfa404b34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d049fd3791575bf94593331aaf152d607829194a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShopMicroservices.Common.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShopMicroservices.Common.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
