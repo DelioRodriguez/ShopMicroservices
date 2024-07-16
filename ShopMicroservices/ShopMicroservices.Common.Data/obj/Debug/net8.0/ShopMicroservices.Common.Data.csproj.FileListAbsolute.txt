@@ -1,0 +1,12 @@
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\bin\Debug\net8.0\ShopMicroservices.Common.Data.deps.json
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\bin\Debug\net8.0\ShopMicroservices.Common.Data.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\bin\Debug\net8.0\ShopMicroservices.Common.Data.pdb
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\ShopMicroservices.Common.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\ShopMicroservices.Common.Data.AssemblyInfoInputs.cache
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\ShopMicroservices.Common.Data.AssemblyInfo.cs
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\ShopMicroservices.Common.Data.csproj.CoreCompileInputs.cache
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\ShopMicroservices.Common.Data.sourcelink.json
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\ShopMicroservices.Common.Data.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\refint\ShopMicroservices.Common.Data.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\ShopMicroservices.Common.Data.pdb
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Common.Data\obj\Debug\net8.0\ref\ShopMicroservices.Common.Data.dll
