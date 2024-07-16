@@ -1,4 +1,4 @@
-﻿using ShopProSa.Common.Data.Base;
+﻿using ShopMicroservices.Common.Data.Base;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;

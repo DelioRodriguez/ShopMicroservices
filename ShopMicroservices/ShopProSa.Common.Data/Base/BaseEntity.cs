@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShopProSa.Common.Data.Base
+namespace ShopMicroservices.Common.Data.Base
 {
     public abstract class BaseEntity <TType>
     {

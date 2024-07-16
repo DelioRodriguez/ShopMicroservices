@@ -1,4 +1,4 @@
-﻿using ShopProSa.Common.Data.Repository;
+﻿using ShopMicroservices.Common.Data.Repository;
 
 
 namespace ShopMicroservices.Customers.Domain.Interfaces

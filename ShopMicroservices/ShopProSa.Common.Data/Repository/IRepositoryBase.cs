@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShopProSa.Common.Data.Repository
+namespace ShopMicroservices.Common.Data.Repository
 {
    public interface IRepositoryBase<TEntity,TType> where TEntity : class
     {

@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using ShopMicroservices.Categories.Domain.Interfaces;
-using ShopProSa.Common.Data.Base;
+using ShopMicroservices.Common.Data.Base;
+
 
 namespace ShopMicroservices.Categories.Domain.Entities
 {
