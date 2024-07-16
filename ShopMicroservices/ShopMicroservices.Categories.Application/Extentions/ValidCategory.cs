@@ -26,8 +26,6 @@ public  static class ValidCategory
                 return result;
             }
 
-            // Add additional validation rules as needed for CategoriesDtoSave
-
             return result;
         }
 
