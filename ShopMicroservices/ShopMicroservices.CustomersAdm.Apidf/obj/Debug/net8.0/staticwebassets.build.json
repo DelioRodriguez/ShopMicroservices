@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LAHBQzD6P53ZzFj/97rCewRC5PqYHT0spbe5tlyFxt8=",
+  "Source": "ShopMicroservices.CustomersAdm.Api",
+  "BasePath": "_content/ShopMicroservices.CustomersAdm.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

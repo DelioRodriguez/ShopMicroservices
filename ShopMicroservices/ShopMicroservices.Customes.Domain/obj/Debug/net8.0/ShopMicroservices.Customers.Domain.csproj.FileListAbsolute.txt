@@ -1,0 +1,16 @@
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\bin\Debug\net8.0\ShopMicroservices.Customers.Domain.deps.json
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\bin\Debug\net8.0\ShopMicroservices.Customers.Domain.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\bin\Debug\net8.0\ShopMicroservices.Customers.Domain.pdb
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\bin\Debug\net8.0\ShopMicroservices.Common.Data.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\bin\Debug\net8.0\ShopMicroservices.Common.Data.pdb
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicroservices.Customers.Domain.csproj.AssemblyReference.cache
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicroservices.Customers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicroservices.Customers.Domain.AssemblyInfoInputs.cache
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicroservices.Customers.Domain.AssemblyInfo.cs
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicroservices.Customers.Domain.csproj.CoreCompileInputs.cache
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicroservices.Customers.Domain.sourcelink.json
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicr.A0C84D67.Up2Date
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicroservices.Customers.Domain.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\refint\ShopMicroservices.Customers.Domain.dll
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ShopMicroservices.Customers.Domain.pdb
+C:\ShopMicroservices\ShopMicroservices\ShopMicroservices.Customes.Domain\obj\Debug\net8.0\ref\ShopMicroservices.Customers.Domain.dll
